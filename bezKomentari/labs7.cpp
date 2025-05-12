@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstring>
 using namespace std;
-
+//potsetnik so usul da prepishuvate 🙃
 class ocila{
     private:
     int brDostapni;
